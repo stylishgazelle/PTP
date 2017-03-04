@@ -1,0 +1,47 @@
+.user_title,
+.user_title a,
+.user_title span,
+.user_title font,
+.user_title strong{ 
+	color:#444444 !important;
+	text-shadow:none !important;
+	font-weight:normal !important;
+	font-style:italic;
+	text-transform:lowercase !important;
+}
+
+.user_title img{ 
+	display:none !important;
+}
+
+.forum_post img,
+#user .panel img,
+.panel img,
+.pad img,
+table#torrent_table td.small img,
+#collage_table a,
+ul.collage_images img,
+.grid__item a,
+.gm_albumartdisplay img{
+	opacity:0.4 !important;
+	-moz-opacity:0.4 !important;
+	filter:alpha(opacity=40) !important;
+	-webkit-transition:all .2s linear;
+	-moz-transition:all .2s linear;
+	-o-transition:all .2s linear;
+	transition:all .2s linear;
+}
+
+.forum_post img:hover,
+#user .panel img:hover,
+.panel img:hover,
+.pad img:hover,
+table#torrent_table td.small img:hover,
+#collage_table a:hover,
+ul.collage_images img:hover,
+.grid__item a:hover,
+.gm_albumartdisplay img:hover{
+	opacity:1 !important;
+	-moz-opacity:1 !important;
+	filter:alpha(opacity=100) !important;
+}

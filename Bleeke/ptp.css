@@ -1,0 +1,218 @@
+#header{border-top:5px solid #bcb5cd}
+#header a.username{color:#836846!important}
+h2 a.username{font-size:inherit!important;background-image:none!important;padding-left:0!important;margin-left:0!important}
+#torrents table tr.group td{vertical-align:top;max-width:135px}
+.basic-movie-list__movie__cover{width:117px;border:5px solid #fff;box-shadow:0 0 5px #999;transition:all .2s linear 0}
+.basic-movie-list__movie__cover:hover{border:5px solid #836846!important;box-shadow:0 0 30px #709acd}
+.basic-movie-list__movie__new{font-size:10px;font-weight:700;opacity:0.4}
+.cover-movie-list__movie__cover-link{width:180px;height:280px;display:block}
+.small-cover-movie-list__movie__link{width:140px;height:196px;display:block}
+.user_title .bbcode-size-3{display:inline!important;border-bottom:none!important}
+.star-rating{display:inline-block;width:170px;height:20px;list-style:none outside none;background:url(https://static.passthepopcorn.me/static/common/stars/stars.png) repeat-x scroll 0 0 transparent;cursor:pointer;margin:0!important;padding:0}
+.star-rating__site{background:url(https://static.passthepopcorn.me/static/common/stars/stars.png) repeat scroll left 100px transparent;z-index:18}
+.star-rating__current-user{background:url(https://static.passthepopcorn.me/static/common/stars/stars.png) repeat scroll left 125px transparent;z-index:19}
+.star-rating__current-user,.star-rating__site{display:block;position:absolute;float:left;width:170px;height:20px;text-decoration:none;text-indent:-9000px;font-size:1px;z-index:20;margin:0;padding:0}
+.basic-movie-list__movie__ratings-and-tags{padding-top:5px;margin-top:5px;border-top:1px dotted #ccc}
+.basic-movie-list__movie__bookmark{float:right}
+li#nav_bonus{display:block}
+#requests.hidden thead tr,#requests.hidden thead tr:hover,#torrents .table--striped thead tr,#torrents .table--striped thead tr:hover,#torrent_table thead tr,#torrent_table thead tr:hover,#messageformtable thead tr,#messageformtable thead tr:hover,.sidebar .table--bordered thead tr:hover{background:none repeat scroll 0 0 #111}
+#requests #bitrate_list,#requests #format_list,#requests #media_list,#requests #resolution_list{background:none}
+#messageformtable thead tr th{padding:7px}
+#bookmarks .basic-movie-list__torrent-edition{background:none repeat scroll 0 0 #fff!important;font-weight:700;color:#333}
+#bookmarks .basic-movie-list.basic-movie-list--narrow > thead > tr{background:none repeat scroll 0 0 #bcb5cd!important}
+tbody > tr:nth-child(2n+1){background-color:#fff}
+body#user #recent_snatches .grid
+#index .table--panel-like > thead > tr > td,#index .table--panel-like > thead > tr > th{margin-bottom:5px;border-bottom:1px solid #f3f3f3;border-right:1px solid #f3f3f3;background:none repeat scroll 0 0 #e1e1e1;color:#888;box-shadow:0 1px 3px #999;padding:4px 4px 4px 15px}
+body#forums .table thead:first-child tr:first-child th:first-child{width:20px!important}
+.table--panel-like > thead > tr > th{margin-bottom:5px;border-bottom:1px solid #000;border-right:1px solid #000;padding:4px 4px 4px 15px}
+body#forums .table--panel-like > thead > tr > th{padding-bottom:10px;padding-top:10px}
+#userform .grid__item a:not(.ui-slider-handle),#userform .grid__item a:hover:not(.ui-slider-handle){border:none!important}
+#userform .grid__item a,#userform .grid__item a:hover{box-shadow:none!important;display:inline!important}
+#userinfo #nav_bonus{position:absolute;right:0;top:94%/*;margin-top:0*/}
+.user-info-bar{color:#000}
+.generic-form__footer,.search-form__footer{border-top:none}
+.table--bordered{border:0 none!important}
+.user-info-bar__list{margin:0}
+div.basic-movie-list__movie__tags span{vertical-align:baseline!important}
+.linkbox{text-align:center;margin:15px 0px;padding: 5px;text-shadow: 1px 1px 1px rgb(255, 255, 255);}
+#forums .linkbox{text-align:center;margin:15px 0px 0px;padding: 5px 5px 0px;text-shadow: 1px 1px 1px rgb(255, 255, 255)}
+.sidebar-cover-image{display:block;max-width:100%;margin:auto}
+.basic-movie-list__torrent-edition__main,.basic-movie-list__torrent-edition__sub{float:none!important}
+span.imdbtitle{color:transparent}
+.basic-movie-list__movie__rating-container,.browserating:first-of-type span.imdbtitle a,.browserating:first-of-type span.imdbtitle a:hover{background:url(images/imdb.png) no-repeat;height:16px;overflow:hidden;vertical-align:bottom;border:none;opacity:.5;transition:opacity .4s;-o-transition:opacity .4s;-moz-transition:opacity .4s;-webkit-transition:opacity .4s;padding:0}
+.basic-movie-list__movie__rating__rating{margin-left:20px}
+span.imdbtitle a:visited{color:#transparent!important}
+.basic-movie-list__movie__rating-container,div.browserating{display:inline-block;color:#000;font-weight:400;margin:3px 0 2px}
+body#torrents div.basic-movie-list__movie__tags a[href*="#"]{color:#555;font-weight:400!important;text-align:center;border:none;border-radius:10px}
+.site-logo a{display:block;position:absolute;left:11px;top:92px;z-index:5000;width:130px;height:46px;background:url(./images/ptp-logo-light.png) no-repeat}
+.alert-bar:first-of-type{margin-left:135px!important}
+.search-bar ul#torrentscomplete{background:#ddd;position:absolute;top:29px;width:200px;font-size:8pt;padding:0}
+.search-bar ul#torrentscomplete li{background:#eee;margin:0;padding:10px}
+.search-bar ul#torrentscomplete li:hover,.search-bar ul#torrentscomplete li.highlight{background:#eef3f9;cursor:pointer}
+#user .grid .user-page__recent-movie__rating{margin-left:48%}
+body#user tr.colhead td{background:#e1e1e1;text-align:left!important}
+body#user #general table#recent_snatches tr td,body#user #general table#recent_uploads tr td{text-align:center;background:transparent!important;padding-bottom:7px}
+body#user #general table#recent_snatches tr:last-child td,body#user #general table#recent_uploads tr:last-child td{padding-top:12px}
+body#collage table#collage_table td img{height:auto;width:145px}
+body#bookmarks table.collage tr td{padding-bottom:7px;background:0 0}
+table.torrent_table tr td.small img{transition:all .9s;-o-transition:all .9s;-moz-transition:all .9s;-webkit-transition:all .9s}
+table.torrent_table tr:hover td.small img{-moz-box-shadow:0 0 30px #afc6e3;-webkit-box-shadow:0 0 30px #afc6e3;box-shadow:0 0 30px #afc6e3}
+table.torrent_table td.small img{border:3px solid #fff;-moz-box-shadow:0 0 3px #555;-webkit-box-shadow:0 0 3px #555;box-shadow:0 0 3px #555;margin:3px}
+table.torrent_table td.small img:hover{border:3px solid #836846!important;-moz-box-shadow:0 0 30px #709acd;-webkit-box-shadow:0 0 30px #709acd;box-shadow:0 0 30px #709acd;transition:all .2s!important;-o-transition:all .2s!important;-moz-transition:all .2s!important;-webkit-transition:all .2s!important}
+body#index div#last5{overflow:hidden;margin-top:-3px}
+body#index div#last5 table td{vertical-align:top;padding:10px 0}
+body#index div#last5 table td img{height:auto!important;width:130px!important}
+body#index div#last5 table td a.last5-movies__link{color:#555;display:block;text-align:center;width:130px;height:175px;overflow:hidden;border:5px solid #fff;-moz-box-shadow:0 0 5px #999;-webkit-box-shadow:0 0 5px #999;box-shadow:0 0 5px #999;transition:all .2s;-o-transition:all .2s;-moz-transition:all .2s;-webkit-transition:all .2s;background-position:center center;background-size:100%;background-repeat:no-repeat;margin:0 auto}
+.film-club-discuss-link{text-align:center;padding-top:10px}
+body#index div#last5 a.l_movie,body#index div#last5 a.l_movie:hover,body#index div#last5 a[href*="user.php"],body#index div#last5 a[href*="user.php"]:hover{height:auto!important;border:none!important;box-shadow:none!important;display:inline}
+body#index div#last5 a.l_movie:hover,body#index div#last5 a[href*="user.php"]:hover{border-bottom:1px dotted #555!important}
+body#index div#last5 a[href*="user.php"]{color:#836846}
+body#index div#last5 table.latest5 tr:nth-child(2) td{padding:5px 10px!important}
+body#index div#last5t div.colhead_dark{background:#bcb5cd!important;font-size:8pt}
+body#index div#last5 table.latest5 tr td{border:none;border-right:1px dotted #ddd}
+body#index div#last5 table.latest5 tr td:last-child{border-right:none}
+body#index div#filmclubbody img{width:200px;height:auto}
+body#index div.head a,body#index div.sidebar a{border-bottom:none!important}
+body#index div.main-column div.head a[href*="forums.php?action=viewthread"]{float:right;font-size:8pt;margin-top:3px}
+body#index div.sidebar div#vanityhouse u{text-decoration:none}
+body#index a.panel__heading__toggler{overflow:hidden;background:url(images/toggle.png) no-repeat;color:transparent!important;opacity:.3;display:block;margin-left:94%;width:12px;height:13px;margin-top:-5%}
+body#index #last5t a.panel__heading__toggler{overflow:hidden;background:url(images/toggle.png) no-repeat scroll 0 0 transparent;color:transparent!important;opacity:0.3;display:block;margin-left:98.63%!important;width:12px;height:16px!important;margin-top:-2%!important}
+body#index #last5 a.username{background:none!important}
+body#index a.toggle{display:block;color:transparent!important;width:12px;height:12px;margin-top:2px;overflow:hidden;background:url(images/toggle.png) no-repeat;opacity:.3}
+body#index div#last5t div.colhead_dark a.toggle{margin-top:5px;margin-right:3px;background:url(images/toggle.png) no-repeat;opacity:.4}
+body#index div.head a[href*="forums.php?action=viewthread"]{display:inline-block;vertical-align:middle;color:transparent!important;width:16px;height:16px;overflow:hidden;background:url(images/discuss.png) no-repeat;opacity:.3}
+a[href*="user.php?action=awards"]{background-image:none!important;padding-left:0!important;margin-left:2px!important}
+img[src*="common/check.png"]{background:url(images/check.png) center center no-repeat;padding-left:15px;padding-top:0;width:0!important}
+img[src*="common/quality.gif"]{background:url(images/quality2.png) center center no-repeat;padding-left:15px;padding-top:0;width:0!important}
+a[href*="wiki.php?action=article&id=26"] img[src*="common/x.png"]{background:url(images/under_review.png) center center no-repeat;padding-left:15px;padding-top:0;width:0!important}
+a[href*="torrents.php?action=uncheck&torrentid"] img[src*="common/x.png"]{background:url(images/uncheck-torrent-magenta.png) center center no-repeat;padding-left:15px;padding-top:0;width:0!important;opacity:.3}
+a[href*="torrents.php?action=check&torrentid"]{opacity:.7!important}
+a[href*="torrents.php?action=check&torrentid"]:hover,a[href*="torrents.php?action=uncheck&torrentid"]:hover{border-bottom:none!important;text-decoration:none!important}
+table.torrent_table tr.group_torrent td:not(.basic-movie-list__torrent-edition) strong{font-weight:400!important}
+table.torrent_table span.tc_downloads{color:#555!important;background:#ddece2}
+table.torrent_table span.tc_uploads{color:#555!important;background:#cec9db}
+table.torrent_table span.tc_snatches{color:#555!important;background:#d5e1f0}
+table.torrent_table span.tc_leeching{color:#555!important;background:#f6d7e8}
+table.torrent_table span.tc_seeding{color:#555!important;background:#ffe7dd}
+table.torrent_table strong.ti_fl,table.torrent_table strong.ti_fldu,table.torrent_table strong.ti_du,table.torrent_table strong.ti_hldu,table.torrent_table strong.ti_hl,table.torrent_table strong.ti_nl,table.torrent_table strong.ti_rp,table.torrent_table strong.ti_trmp{color:#f6f6f6!important;background:#aaa;padding:0 0 0 5px}
+table.torrent_table strong.ti_fl:after,table.torrent_table strong.ti_fldu:after,table.torrent_table strong.ti_du:after,table.torrent_table strong.ti_hldu:after,table.torrent_table strong.ti_hl:after,table.torrent_table strong.ti_nl:after{content:"";width:5px;height:15px;vertical-align:bottom;background:#86c440!important;display:inline-block;margin-left:4px;border-left:1px solid #f6f6f6}
+table.torrent_table strong.ti_trmp:after{background:#ff8755}
+table.torrent_table strong.ti_trmp:after,table.torrent_table strong.ti_rp:after{content:"";width:5px;height:15px;vertical-align:bottom;display:inline-block;margin-left:4px;border-left:1px solid #f6f6f6}
+table.torrent_table strong.ti_rp:after{background:#eb024c}
+.body span.editedby{border-top:1px dotted #ccc;padding-top:5px;margin-top:30px;display:inline-block;color:#aaa;font-size:8pt}
+.body span.time{font-style:normal}
+.body img[src*="static/common/symbols/viewpost-right.png"]{background:url(images/under_review.png) no-repeat 3px center;padding-left:17px!important;padding-top:12px!important;width:0!important}
+a img.view_post{text-decoration:none!important}
+body#log div#latest_data table td{font-size:10pt;padding:10px}
+body#log div#latest_data table a{border-bottom:1px dotted #777}
+table a.l_movie,div.sidebar a.l_movie{color:#836846!important;font-weight:400!important;font-size:13pt!important}
+table a.l_person,div.sidebar a.l_person{color:#555!important;font-size:11pt!important;font-weight:400!important}
+div#movieinfo a{color:#555}
+div#movieinfo .body strong{display:block;margin-top:10px}
+div#roster table a.l_person,table.forum_post tr.colhead_dark a.l_person,table.forum_post tr.colhead_dark a.l_movie{border-bottom:1px dotted #555}
+.lightbox img{max-height:none;max-width:none}
+body#torrents blockquote#subtitle_manager{background:#f3f8f5;padding-bottom:17px}
+body#torrents blockquote#subtitle_manager span{display:block;width:120px;height:20px;background:url(images/sub_manager.png) no-repeat;overflow:hidden;-moz-box-shadow:2px 2px 5px #888;-webkit-box-shadow:2px 2px 5px #999;box-shadow:2px 2px 5px #888;opacity:.6}
+body#torrents blockquote#subtitle_manager span:active{box-shadow:2px 2px 5px #000}
+body#torrents blockquote#subtitle_manager span a{color:transparent;width:120px;display:block}
+span.spoiler,blockquote span.spoiler{background:#e1e1e1;color:transparent!important;transition:all .5s;-o-transition:all .5s;-moz-transition:all .5s;-webkit-transition:all .5s}
+span.spoiler:hover{background:#e1e1e1!important;color:#555!important}
+#footer .hidden{position:static;display:inline-block!important}
+img.imageLink{margin-right:5px;-moz-box-shadow:0 0 5px #fff;-webkit-box-shadow:0 0 5px #fff;box-shadow:0 0 5px #fff;opacity:.5;transition:all .5s;-o-transition:all .5s;-moz-transition:all .5s;-webkit-transition:all .5s}
+body#torrents tr.group_torrent td span a{font-size:8pt!important}
+body#unchecked table a.l_movie{font-size:11pt!important}
+body#unchecked table#freeleech td{background:#f3f8f5;border-bottom:1px solid #fff;border-right:1px solid #fff}
+body#unchecked table#freeleech tr:hover td{background:#eef3f9}
+body#unchecked tr.colhead th,body#unchecked table td{border-right:1px solid #f6f6f6;padding:7px}
+body#unchecked table img[style]{height:12px!important}
+body#torrents blockquote a{color:#836846;border-bottom:1px dotted #555}
+body#torrents table:not(#torrent_table) a[href*="?action=new_subtitle"],body#torrents table:not(#torrent_table) a[href*="?action=managesubs"]{font-size:10pt;font-weight:400;background-color:#558cc7;box-shadow:0 0 3px #000;text-transform:uppercase;text-shadow:-1px -1px 0 rgba(0,0,0,0.3);color:#FFF;padding:3px}
+table.mediainfo{margin-top:10px;border-top:3px solid #b1936d;font-size:8pt}
+table.mediainfo td{border-bottom:1px solid #fff!important;background:#f6f6f6!important;vertical-align:top;padding:0}
+table.mediainfo table td{border:0;background:#f6f6f6;padding:5px}
+table.mediainfo table caption{background:#e1e1e1;font-weight:700;padding:5px}
+body#upload div#dynamic_form table td#artistfields input[type="text"]{width:90%}
+body#inbox input[type="submit"],body#inbox input[type="button"]{margin-top:0}
+body#forums div.thin div#threadpoll form{padding:0!important}
+body#forums div.thin div#threadpoll form input{margin-right:5px}
+body#top10 table td:first-child{width:50px!important}
+body#top10 table{margin-bottom:20px}
+body#top10 div.head{background:#e1dee8}
+body#torrents div[id^="trumpable"] blockquote{background:#ffe7dd}
+.languageselector,.missing_source_filter{list-style:none;width:auto;float:left}
+.languageselector li,.missing_source_filter li{margin:4px 15px 4px 0}
+.missing_table tr:nth-child(even){background-color:#f6f6f6}
+.missing_exists{color:transparent;background:url(images/exists.png) no-repeat center;opacity:.9}
+.missing_trumpable{color:transparent;background:url(images/trumpable.png) no-repeat center;opacity:.9}
+.missing_missing{color:transparent;background:url(images/missing.png) no-repeat center;opacity:.5}
+body#missing table td{padding:10px}
+body#missing form{background:#fff;padding:10px}
+body#missing form table tr td{border-bottom:1px solid #fff}
+#userinfo li#nav_more a[href*="#"]{display:none!important}
+#torrents #content .noticon{height:28px;width:28px;text-align:center}
+#torrents #content .checked{background:url(icon/checkmark.png) no-repeat;width:20px;height:20px;float:center}
+#torrents #content .notchecked{background:url(icon/crossn.png) no-repeat;width:20px;height:20px;float:center}
+td.cats_col{width:28px;padding:3px}
+.cats_guides,.cats_ebooks{background-image:url(icon/ebook.png);width:28px;height:28px}
+.cats_applications{height:28px;width:28px;background-image:url(icon/apps.png)}
+.cats_ost{background-image:url(icon/music.png);width:28px;height:28px}
+#torrents #screenshots{padding:20px!important}
+.qtip,.qtip{position:absolute;left:-28000px;top:-28000px;display:none;max-width:280px;min-width:50px;font-size:10.5px;line-height:12px}
+.qtip-content{position:relative;overflow:hidden;text-align:left;word-wrap:break-word;padding:5px 9px}
+.qtip-shadow{-webkit-box-shadow:1px 1px 1px #999;box-shadow:1px 1px 1px #999}
+.qtip .qtip-tip{overflow:hidden;z-index:10;margin:0 auto}
+.qtip .qtip-tip,.qtip .qtip-tip *{position:absolute;color:#123456;background:none repeat scroll 0 0 transparent;border:0 solid transparent}
+.qtip .qtip-tip canvas{top:0;left:0}
+.qtip-ptp{background:none repeat scroll 0 0 #FFF;line-height:normal!important;max-width:none!important;color:#555}
+.bbcode-size-8{font-size:2.3em;line-height:1.3em}
+.bbcode-size-9{font-size:2.4em;line-height:1.4em}
+.bbcode__image{max-width:500px}
+.sidebar .bbcode__image{width:100%}
+.bbcode-text-preview{border:solid thin #f6f6f6;padding:.5em}
+.bbcode-toolbar__button{background:#ddd url(https://static.passthepopcorn.me/static/common/bbcode_buttons4.png) no-repeat center center;width:16px;height:16px;float:left;border:4px solid #ddd;box-shadow:0 1px 1px #a0a0a0;padding:0!important}
+.bbcode-toolbar__button:hover{background:#FFF url(https://static.passthepopcorn.me/static/common/bbcode_buttons4.png) no-repeat top left;border:4px solid #FFF}
+.bbcode-toolbar__size-popup-row{cursor:pointer;padding:0 4px}
+.bbcode-toolbar__color-popup-color{cursor:pointer;display:inline-block;width:16px;height:16px}
+.bbcode-toolbar__emoticon-popup-item{cursor:pointer;display:inline-block;border:solid 2px transparent}
+.screenshot-comparison__container{position:fixed;overflow:auto;top:0;left:0;width:100%;height:100%;background-color:#000;text-align:center}
+.screenshot-comparison__row{position:relative;left:0;top:0}
+.screenshot-comparison__image-container{display:inline-block;position:absolute;left:0;top:0;width:100%}
+.screenshot-comparison__image{border:4px solid #404}
+.screenshot-comparison__label{position:fixed;top:0;z-index:2000;color:#FFF;font-size:18px;font-weight:700;text-shadow:0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px #000}
+.screenshot-comparison__old-school-toggler-container{margin:20px}
+.screenshot-comparison__help{display:inline-block;margin-bottom:20px;max-width:800px;color:#FFF;text-align:left}
+.screenshot-comparison__old-school-image{width:20%}
+.ui-slider .ui-slider-handle{width:1.2em!important;height:1.2em!important}
+.ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default{border:1px solid #d3d3d3!important}
+.bvalidator_errmsg{display:none;white-space:nowrap;color:#fff;font-size:11px;font-weight:700;box-shadow:2px 2px 2px #222;position:relative;background:none repeat scroll 0 0 #d51111;border:3px solid #ddd;padding:4px 10px}
+ul#userinfo_major strong,.user-info-bar__link--important,body#index div#last5 strong{font-weight:400}
+#torrents table tr.group td:nth-child(2),div#roster table td{vertical-align:baseline}
+#torrents table tr.group td:first-child a:hover,.table--bordered > thead > tr > th,.table--bordered > tbody > tr > th,.table--bordered > tfoot > tr > th,.table--bordered > thead > tr > td,.table--bordered > tbody > tr > td,.table--bordered > tfoot > tr > td,.forum-post,body#user #general table td{border:none}
+#requests .search-form__footer .grid-u-7-10,body#missing table.missing_table td{text-align:center}
+.basic-movie-list__movie__rating-container:nth-of-type(2),.basic-movie-list__movie__rating-container:nth-of-type(3),.basic-movie-list__movie__rating-container:nth-of-type(4),.basic-movie-list__movie__rating__title{display:none}
+span.imdbtitle a:hover,a[href*="torrents.php?action=uncheck&torrentid"]:hover img[src*="common/x.png"],a[href*="torrents.php?action=check&torrentid"]:hover{opacity:1!important}
+#forums div.thin form,body#user #general table#recent_snatches tr,body#user #general table#recent_uploads tr{background:0 0}
+body#chat table tr:hover,table.mediainfo table,table.mediainfo td:hover{background:#f6f6f6!important}
+body#user #general table#recent_snatches td a:hover,body#user #general table#recent_uploads td a:hover,body#collage table#collage_table td a:hover,body#bookmarks table#collage_table td a[href*="torrents.php?id="]:hover,body#index div#last5 table td a.last5-movies__link:hover{text-decoration:none;border:5px solid #836846!important;-moz-box-shadow:0 0 30px #709acd;-webkit-box-shadow:0 0 30px #709acd;box-shadow:0 0 30px #709acd}
+body#user #general table#recent_snatches td img,body#user #general table#recent_uploads td img,body#bookmarks table#collage_table td img{height:auto!important;width:145px!important}
+body#user #general table#recent_snatches td a,body#user #general table#recent_uploads td a,body#collage table#collage_table td a,body#bookmarks table#collage_table td a[href*="torrents.php?id="]{color:#555;display:block;text-align:center;width:145px;height:145px;overflow:hidden;border:5px solid #fff;-moz-box-shadow:0 0 5px #999;-webkit-box-shadow:0 0 5px #999;box-shadow:0 0 5px #999;transition:all .2s;-o-transition:all .2s;-moz-transition:all .2s;-webkit-transition:all .2s;margin:0 auto}
+body#user #general table#recent_snatches tr:last-child,body#user #general table#recent_snatches tr:last-child:hover,body#user #general table#recent_uploads tr:last-child,body#user #general table#recent_uploads tr:last-child:hover,body#bookmarks table.collage tr,body#bookmarks table.collage tr:hover,body#index div#last5 table tr:hover,table.movieratings tr:hover{background:transparent!important}
+body#user #general table tr.colhead td,body#unchecked tr.colhead th,body#missing table.missing_table td:nth-child(1){text-align:left}
+body#index div#last5 table.latest5 tr:first-child td,body#missing form table tr,.bbcode-toolbar__size-popup-row:hover{background:#f6f6f6}
+body#index .head.colhead_dark,.languageselector img,input{vertical-align:middle}
+body#log .thin,body#missing .thin{width:99%}
+body#log div#latest_data table a[href*="user.php"],body#torrents div.box table.noborder a:hover{border-bottom:none}
+body#torrents blockquote#subtitle_manager span:hover,img.imageLink:hover{opacity:1}
+.bbcode-toolbar__color-popup-color:hover,.bbcode-toolbar__emoticon-popup-item:hover{border:solid 2px #ff8040}
+.huge-movie-list__movie{min-height:360px;margin:10px 0;padding:10px}
+.huge-movie-list__movie__cover{float:left;width:256px}
+.huge-movie-list__movie__cover__link {display: block;height: 360px;width: 256px}
+.huge-movie-list__movie__details {margin-left: 256px;position: relative;padding: 0px 0px 0px 10px}
+.huge-movie-list__movie__title-row{padding-bottom:5px}
+.huge-movie-list__movie__title{font-size:21pt}
+.huge-movie-list__movie__year{font-size:15pt;font-weight:700}
+.huge-movie-list__movie__new{font-size:15pt;font-weight:700;opacity:0.5}
+.huge-movie-list__movie__director-list{font-size:15pt}
+.huge-movie-list__movie__director{color:rgb(131, 104, 70);font-size:21pt}
+.huge-movie-list__movie__synopsis{font-size:10pt;line-height:18pt}
+.huge-movie-list__movie__action-row{margin: 10px 0px 15px;}

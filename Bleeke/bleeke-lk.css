@@ -1,0 +1,45 @@
+/*
+
++++++++++++++++++++++++++++++++++++++++++++++
+name:     Blaake for what.cd
+version:  1.0 -- Sep 29 2011
++++++++++++++++++++++++++++++++++++++++++++++
+author:   rusak
+contact:  rusak@feralhosting.com
++++++++++++++++++++++++++++++++++++++++++++++
+
+some icons by devertex, used by permission
+
+dropdown: idea -- karlbright
+
+sensitive area in header / ghost searchbar: idea -- devertex
+
+please do not remove this notice
+
+*/
+
+@import url(frame.css);
+@import url(formatter.css);
+@import url(ggn.css);
+@import url(handhelds.css) (max-width:1024px);
+
+table.forum_post tr.likes td {
+	position: absolute;
+	margin-top: -29px;
+	padding: 11px;
+	opacity: 0.6;
+}
+
+table.forum_post tr.likes td:nth-child(2) {
+	display:none;
+}
+
+.forumstat {
+	padding-bottom: 10px;
+}
+
+/*
+
+that's all :)
+
+*/

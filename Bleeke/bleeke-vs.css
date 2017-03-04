@@ -1,0 +1,31 @@
+/*
+
++++++++++++++++++++++++++++++++++++++++++++++
+name:     Blaake for what.cd
+version:  1.0 visisearch -- Sep 29 2011
++++++++++++++++++++++++++++++++++++++++++++++
+author:   rusak
+contact:  rusak@feralhosting.com
++++++++++++++++++++++++++++++++++++++++++++++
+
+some icons by devertex, used by permission
+
+dropdown: idea -- karlbright
+
+sensitive area in header / ghost searchbar: idea -- devertex
+
+please do not remove this notice
+
+*/
+
+@import url(frame.css);
+@import url(formatter.css);
+@import url(ptp.css);
+@import url(visisearch.css);
+@import url(handhelds.css) (max-width:1024px);
+
+/*
+
+that's all :)
+
+*/

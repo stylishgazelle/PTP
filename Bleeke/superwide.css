@@ -1,0 +1,18 @@
+#content{
+	max-width:none;
+	width:85%;
+}
+
+body#forums blockquote,body#wiki blockquote{
+	max-width:none;
+	width:auto;
+}
+
+pre{
+	max-width:900px;
+	border-right:1px dotted #ccc;
+}
+
+pre.log_file,body#logchecker pre{
+	max-width:none;
+}

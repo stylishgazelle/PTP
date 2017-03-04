@@ -1,0 +1,31 @@
+/*
+
++++++++++++++++++++++++++++++++++++++++++++++
+name:     blaake for PTP
+version:  0.9a -- Jan 19 2012
++++++++++++++++++++++++++++++++++++++++++++++
+author:   rusak
+contact:  rusak@feralhosting.com
++++++++++++++++++++++++++++++++++++++++++++++
+
+some icons by devertex, used by permission
+
+dropdown: idea -- karlbright
+
+sensitive area in header / ghost searchbar: idea -- devertex
+
+please do not remove this notice
+
+*/
+
+@import url(frame-blaake.css);
+@import url(formatter.css);
+@import url(ptp.css);
+@import url(painter.css);
+@import url(handhelds.css) (max-width:1024px);
+
+/*
+
+that's all :)
+
+*/

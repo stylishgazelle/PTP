@@ -1,0 +1,77 @@
+/*
+
++++++++++++++++++++++++++++++++++++++++++++++
+name:     Blaake for what.cd
+version:  1.0 -- Sep 29 2011
++++++++++++++++++++++++++++++++++++++++++++++
+author:   rusak
+contact:  rusak@feralhosting.com
++++++++++++++++++++++++++++++++++++++++++++++
+
+some icons by devertex, used by permission
+
+dropdown: idea -- karlbright
+
+sensitive area in header / ghost searchbar: idea -- devertex
+
+please do not remove this notice
+
+*/
+
+@import url(frame.css);
+@import url(formatter.css);
+@import url(ggn.css);
+@import url(handhelds.css) (max-width:1024px);
+@import url(painter.css);
+
+/* Forum posts */
+
+table.forum_post tr.likes td {
+	position: absolute;
+	margin-top: -25px;
+	padding: 46px;
+	color: transparent;
+	opacity: 0.15;
+}
+
+table.forum_post tr.likes td:nth-child(2) {
+	display:none;
+}
+
+.forumstat {
+	display:none;
+}
+
+.avatar:hover .forumstat {
+	display: none !important;
+}
+
+td.avatar {
+	padding-bottom: 0px !important;
+}
+
+/* ---------------- */
+
+/* BB CODE BUTTONS */
+
+#bb_bold, #bb_und, #bb_ita, #bb_img, #bb_link, #bb_strk, #bb_h2, #bb_h3, #bb_h4, #bb_h5, #bb_h6, #bb_h1, #bb_color, #bb_tex, #bb_quote, #bb_list, #bb_spoil, 
+#bb_cent, #bb_lef, #bb_righ, #bb_pre, #bb_youtube  {
+	display:none !important;
+	height:16px;
+	width:16px;
+}
+
+.bbbutt,
+.bbbutt li,
+.bbbutt li a,
+.bbbutt li select{
+	display: none;
+}
+
+/* END BB CODE BUTTONS */
+
+/*
+
+that's all :)
+
+*/

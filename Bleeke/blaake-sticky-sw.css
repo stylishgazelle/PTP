@@ -1,0 +1,31 @@
+/*
+
++++++++++++++++++++++++++++++++++++++++++++++
+name:     Bleeke for what.cd
+version:  1.0 sticky -- Sep 29 2011
++++++++++++++++++++++++++++++++++++++++++++++
+author:   rusak
+contact:  rusak@feralhosting.com
++++++++++++++++++++++++++++++++++++++++++++++
+
+some icons by devertex, used by permission
+
+dropdown: idea -- karlbright
+
+sensitive area in header / ghost searchbar: idea -- devertex
+
+please do not remove this notice
+
+*/
+
+@import url(blaake.css);
+@import url(superwide.css);
+#content{padding:150px 20px 20px;}
+#header{position:fixed;top:0;left:0;}
+
+
+/*
+
+that's all :)
+
+*/
