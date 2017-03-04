@@ -1617,8 +1617,8 @@ li#nav_userinfo a {
     height: 30px
 }
 .alert-bar {
-    display: inline-block;
-    margin: 7px 15px 0
+    display: inline-flex;
+    margin: 0px 15px 0
 }
 #header .alert-bar a {
     color: #836846
